@@ -8,4 +8,4 @@ Youtube clone with HTML & CSS
 * Using Media Queries
 
 ### Live Site
-* [Youtube Clone](youtube-design-clone.netlify.app "Youtube Clone")
+* [Youtube Clone](https://youtube-design-clone.netlify.app "Youtube Clone")
