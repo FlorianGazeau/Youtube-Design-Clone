@@ -8,4 +8,4 @@ Youtube clone with HTML & CSS
 * Using Media Queries
 
 ### Live Site
-* [I'm an inline-style link with title](youtube-design-clone.netlify.app "Youtube Clone")
+* [Youtube Clone](youtube-design-clone.netlify.app "Youtube Clone")
