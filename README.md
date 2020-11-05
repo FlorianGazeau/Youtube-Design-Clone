@@ -2,10 +2,10 @@
 
 Youtube clone with HTML & CSS
 
-# Description
+### Description
 * Built this project to test my knowledge with CSS Grid Layout & Flexbox
 * Also wanted to se how well implatented a sidebar & header
 * Using Media Queries
 
-# Live Site
+### Live Site
 * youtube-design-clone.netlify.app
